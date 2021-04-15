@@ -1,0 +1,12 @@
+intents:
+  - tudo_bem
+
+templates:
+  utter_tudo_bem:
+    - text: |
+          Tudo bem, obrigada! Em que posso te ajudar?
+
+
+actions:
+  - utter_tudo_bem
+
